@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Diody",
+    "isPoisonous": true
+  },
+  {
+    "name": "Czujniki",
+    "isPoisonous": true
+  },
+  {
+    "name": "Wyświetlacze",
+    "isPoisonous": true
+  },
+  {
+    "name": "Płytki stykowe",
+    "isPoisonous": true
+  },
+  {
+    "name": "Przewody i złącza",
+    "isPoisonous": false
+  },
+  {
+    "name": "Rezystory i kondensatory",
+    "isPoisonous": true
+  },
+  {
+    "name": "Kamery i rejestratory",
+    "isPoisonous": true
+  },
+  {
+    "name": "Przełączniki i przyciski",
+    "isPoisonous": true
+  },
+  {
+    "name": "Konwertery",
+    "isPoisonous": true
+  },
+]
