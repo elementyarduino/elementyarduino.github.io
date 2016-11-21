@@ -1,38 +1,47 @@
 [
   {
     "name": "Diody",
+    "opis": "Dioda dwuzaciskowy (dwuelektrodowy) element elektroniczny, który przewodzi prąd elektryczny w sposób niesymetryczny, to jest bardziej w jednym kierunku niż w przeciwnym.",
     "isPoisonous": true
   },
   {
     "name": "Czujniki",
+    "opis": "Czujnik, sensor – fizyczne bądź biologiczne narzędzie będące najczęściej elementem składowym większego układu, którego zadaniem jest wychwytywanie sygnałów z otaczającego środowiska, rozpoznawanie i rejestrowanie ich.",
     "isPoisonous": true
   },
   {
     "name": "Wyświetlacze",
+    "opis": "Wyświetlacz ciekłokrystaliczny, LCD (ang. Liquid Crystal Display) – urządzenie wyświetlające obraz, którego zasada działania oparta jest na zmianie polaryzacji światła na skutek zmian orientacji cząsteczek ciekłego kryształu pod wpływem przyłożonego pola elektrycznego.",
     "isPoisonous": true
   },
   {
     "name": "Płytki stykowe",
+    "opis": "Moduł zasilający do płytek stykowych 3,3 V 5 V - Umożliwia podłączenie zasilania 5 V lub 3,3 V do płytki stykowej przy pomocy zasilacza sieciowego.",
     "isPoisonous": true
   },
   {
     "name": "Przewody i złącza",
+    "opis": "Przewody połączeniowe 65 szt. męsko - męskie - Zestaw 65 przewodów połączeniowych do płytek stykowych o różnej długości w rozmaitych kolorach.",
     "isPoisonous": false
   },
   {
     "name": "Rezystory i kondensatory",
+    "opis": "Elementy bierne takie jak: R - rezystory, C - kondensatory i L - cewki indukcyjne to najczęściej spotykane elementy w elektronice, a w szczególności elektronice analogowej.",
     "isPoisonous": true
   },
   {
     "name": "Kamery i rejestratory",
+    "opis": "Moduł z kamerą dla Arduino 5 MPx o rozdzielczości 2592 x 1944 px i prędkości do 120 fps.  Rozszerza możliwości mikrokontrolera o możliwość wykonywania zdjęć i nagrywania plików wideo. Urządzenie pracuje z napięciem 3,3 V i 5 V, komunikuje się poprzez SPI, kąt widzenia 24 ° (nieliniowy), obiektyw 1/4''.",
     "isPoisonous": true
   },
   {
     "name": "Przełączniki i przyciski",
+    "opis": "Użycie przełącznika MOSFET W podstawowym użyciu wystarczy podłączyć zasilanie i masę (piny VIN i GND) oraz kontrolować napięcie VOUT za pomocą wbudowanego przełącznika przesuwnego. Aby wykorzystać zewnętrzny przełącznik, należy podłączyć go między pinami GND i SW po wcześniejszym ustawieniu wbudowanego przełącznika w pozycji OFF.",
     "isPoisonous": true
   },
   {
     "name": "Konwertery",
+    "opis": "Moduł pozwala na komunikację pomiędzy systemami wykorzystującymi dwa najpopularniejsze poziomy napięć: 3,3 V i 5 V. Pracuje w obu kierunkach jednocześnie. Obniża napięcie 5 V na 3,3 V oraz podnosi 3,3 na 5 V w tym samym czasie. Ta funkcja przydatna jest w dwukierunkowych protokołach komunikacyjnych np. SPI w trybie full duplex. Konwerter współpracuje także z napięciami niższymi: 3,3 V na 1,8 V. Posiada cztery kanały.",
     "isPoisonous": true
   },
 ]
